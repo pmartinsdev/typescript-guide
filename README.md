@@ -17,8 +17,8 @@ Os primeiros conceitos abordados neste módulo incluem:
 ## 🚀 Como Usar Este Repositório
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
+git clone git@github.com:pmartinsdev/typescript-guide.git
+```
 2. Navegue pelos arquivos para explorar os conceitos abordados.
 3. Leia os exemplos e pratique implementando suas próprias versões.
 
